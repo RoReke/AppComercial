@@ -1,2 +1,0 @@
-## La app ya cuenta con una muestra del dataframe, por lo tanto no hay que ejecutar "arma_df.r". 
-## Para testear la app simplemente abrir el archivo "Server.R" desde Rstudio y darle al botón de "Runapp" 
